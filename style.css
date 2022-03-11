@@ -1,0 +1,44 @@
+
+h1{
+	color: red; 
+	font-size: 30px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
+
+#btnerase{
+	width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    font-size: 20px;;
+    padding: 5px;
+    margin: 8px 0;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+
+#reload {
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    font-size: 20px;;
+    padding: 5px;
+    margin: 8px 0;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
